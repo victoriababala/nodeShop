@@ -20,7 +20,7 @@ This is a  functional online shop application built using Express.js, EJS templa
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/victoriababala/nodeShop.git
-   cd yourrepository
+   cd nodeShop
    ```
 
 2. **Install Dependencies**:
